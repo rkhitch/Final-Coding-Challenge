@@ -1,0 +1,8 @@
+			LeaveCaveRoom	
+	Find5GoldRoom	EmptyCavePath	WerewolfRoom	
+		OrcRoom		
+		EmptyCavePath		
+ZombieRoom	EmptyCavePath	StartingRoom	EmptyCavePath	FindDaggerRoom
+FindStaffRoom		Find5GoldRoom		VampireRoom
+		EmptyCavePath		
+		SnakePitRoom		
